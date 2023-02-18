@@ -1,0 +1,11 @@
+body {
+	background-color: pink;
+	color: #9933ff;
+	text-align: center;
+}
+
+#princess {
+	max-width: 50%;
+	height: auto;
+	border: 5px solid #9933ff;
+}
